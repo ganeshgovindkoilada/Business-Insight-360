@@ -31,48 +31,48 @@ Understanding the available data is critical before analysis. The data consists 
 - Includes conditional formatting, KPI indicators, drill-downs, and role-based access management.
 
 ## Report Views
-
 ## Home View
 Central navigation hub.
 
 <p align="center">
-<img src="Images/Home.png" width="800">
+<img src="Home.png" width="800">
 </p>
 
 ## Finance View
 Profit & Loss analysis, cost control, and net sales trends.
 
 <p align="center">
-<img src="Images/Finanial_View.png" width="800">
+<img src="Finanial_View.png" width="800">
 </p>
 
 ## Sales View
 Customer performance and gross margin analysis.
 
 <p align="center">
-<img src="Images/Sales_View.png" width="800">
+<img src="Sales_View.png" width="800">
 </p>
 
 ## Marketing View
 Campaign effectiveness and product segment performance.
 
 <p align="center">
-<img src="Images/Marketing_View.png" width="800">
+<img src="Marketing_View.png" width="800">
 </p>
 
 ## Supply Chain View
 Inventory management, risk analysis, and forecast accuracy.
 
 <p align="center">
-<img src="Images/Supply_Chain_View.png" width="800">
+<img src="Supply_Chain_View.png" width="800">
 </p>
 
 ## Executive View
 High-level KPIs, revenue breakdowns, and market share insights.
 
 <p align="center">
-<img src="Images/Executive_View.png" width="800">
+<img src="Executive_VIew.png" width="800">
 </p>
+
 ## Key Outcomes
 - AtliQ Hardware’s market share increased significantly from **1.1% to 5.9%**, indicating strong growth and improved market presence.
 - **Latin America recorded the lowest net sales**, while **APAC performed the best**, followed by **North America**.
