@@ -31,18 +31,59 @@ Understanding the available data is critical before analysis. The data consists 
 - Includes conditional formatting, KPI indicators, drill-downs, and role-based access management.
 
 ## Report Views
-- **Home View:** Central navigation hub.
-- **Finance View:** Profit & Loss, cost control, net sales trends.
-- **Sales View:** Customer performance, gross margin analysis.
-- **Marketing View:** Campaign effectiveness, segment performance.
-- **Supply Chain View:** Inventory management, risk analysis, forecast accuracy.
-- **Executive View:** High-level KPIs, revenue breakdowns, market share.
+
+### Home View
+Central navigation hub.
+
+<p align="center">
+<img src="Images/Home1.1.png" width="800">
+</p>
+
+### Finance View
+Profit & Loss analysis, cost control, and net sales trends.
+
+<p align="center">
+<img src="Images/Finanial View.png" width="800">
+</p>
+
+### Sales View
+Customer performance and gross margin analysis.
+
+<p align="center">
+<img src="Images/Sales View.png" width="800">
+</p>
+
+### Marketing View
+Campaign effectiveness and product segment performance.
+
+<p align="center">
+<img src="Images/Marketing View.png" width="800">
+</p>
+
+### Supply Chain View
+Inventory management, risk analysis, and forecast accuracy.
+
+<p align="center">
+<img src="Images/Supply Chain View.png" width="800">
+</p>
+
+### Executive View
+High-level KPIs, revenue breakdowns, and market share insights.
+
+<p align="center">
+<img src="Images/Executive VIew .png" width="800">
+</p>
 
 ## Key Outcomes
-- **Empowered Decision Making:** Strategic choices based on rich and timely data.
-- **Versatile Analysis:** Supports finance, sales, marketing, and supply chain decisions.
-- **Continuous Improvement:** Adaptable insights updated with evolving data and business needs.
+- AtliQ Hardware’s market share increased significantly from **1.1% to 5.9%**, indicating strong growth and improved market presence.
+- **Latin America recorded the lowest net sales**, while **APAC performed the best**, followed by **North America**.
+- Within the **APAC region, India generated the highest net sales**, making it the top-performing market in that region.
+- **Amazon and AtliQ Exclusive are the highest-performing customers**, contributing significantly to overall revenue.
+- The **Notebook segment frequently faces stock shortages**, suggesting the need for better inventory planning.
+- **Operational expenses increased compared to 2021**, negatively impacting net profit margins.
+- Revenue opportunities exist with customers like **Flipkart and Sage**.
+- In **India, GM% variance is negative (Benchmark – Current)**, indicating performance exceeded the target.
 
 ---
 
-*This README provides a detailed overview and documentation for the Business Insights 360 Power BI project to help stakeholders and users understand the project's scope, data, implementation, and outcomes.*
+*This README provides a detailed overview and documentation for the Business Insights 360 Power BI project to help stakeholders understand the project's scope, data, implementation, and outcomes.*
